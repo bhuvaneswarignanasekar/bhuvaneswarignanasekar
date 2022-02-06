@@ -7,9 +7,9 @@
 - Now Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I worked on and currently working on
 <h3>Contact me:</h3>
 
-- by phone: 5404497699
+- by phone: +1(540)-449-7699
 - by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu
-- Check out by LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
+- Check out my LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
 
 
 <!--
