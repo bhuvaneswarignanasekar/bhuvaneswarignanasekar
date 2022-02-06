@@ -3,9 +3,10 @@
 - 🎓 I'm a Graduate student at Virginia Tech, Virginia
 - 📚 Pursing Masters in Computer Engineering specializing in machine learning
 - 🧐 **I'm looking for an summer internship in machine learning/ Data science**
+<h3>Works</h3>
 
-As you have came this far, please check out my **undergraduate final projec**t [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
-Now Check out my **ML- projects repository** to check out the projects that I have worked on and currently working on [ML_projects](https://github.com/bhuvaneswarignanasekar/ML-projects)
+- As you have came this far, please check out my **undergraduate final projec**t [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
+- Now Check out my **ML- projects repository** to check out the projects that I have worked on and currently working on [ML_projects](https://github.com/bhuvaneswarignanasekar/ML-projects)
 <h3>Contact me:</h3>
 
 - by phone: 5404497699
