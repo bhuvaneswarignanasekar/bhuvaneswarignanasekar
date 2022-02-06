@@ -7,9 +7,7 @@
 As you have came this far, please check out my **undergraduate final projec**t [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
 
 Now Check out my **ML- projects repository** to check out the projects that I have worked on and currently working on [ML_projects](https://github.com/bhuvaneswarignanasekar/ML-projects)
-
 <h3>Contact me:</h3>
-
 - by phone: 5404497699
 - by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu
 - Check out by LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
