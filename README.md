@@ -4,7 +4,7 @@
 - 📚 Pursing Masters in Computer Engineering specializing in machine learning
 - 🧐 **I'm looking for an summer internship in machine learning/ Data science**
 - As you have came this far, please check out my **undergraduate final projec**t [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
-- Now Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I worked on and currently working on
+- Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I been worked on and currently working on
 <h3>Contact me:</h3>
 
 - by phone: +1(540)-449-7699
