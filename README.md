@@ -8,7 +8,7 @@
 <h3>Contact me:</h3>
 
 - by phone: +1(540)-449-7699
-- by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu
+- by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu 
 - Check out my LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
 
 
