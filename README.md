@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub Profile 🎉 Happy to have you.
 
-- 🎓 I'm a Graduate student at Virginia Tech, Virginia, USA
+- 🎓 I'm a Graduate student at Virginia Tech, Virginia, USA. Expected graduation date Dec 2022🎓
 - 📚 Pursing Masters in Computer Engineering specializing in machine learning
 - 🧐 **I'm looking for a full time/internship in machine learning/ Data science opporunity from dec 2022**
 - As you have came this far, please check out my **master's capstone project** [master's project place holder] , check out my **undergraduate final project** [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
