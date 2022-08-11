@@ -3,7 +3,7 @@
 - 🎓 I'm a Graduate student at Virginia Tech, Virginia, USA
 - 📚 Pursing Masters in Computer Engineering specializing in machine learning
 - 🧐 **I'm looking for a full time/internship in machine learning/ Data science opporunity from dec 2022**
-- As you have came this far, please check out my ** master's capstone project** [master's project place holder] , check out my **undergraduate final project** [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
+- As you have came this far, please check out my **master's capstone project** [master's project place holder] , check out my **undergraduate final project** [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
 - Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I been worked on and currently working on
 <h3>Contact me:</h3>
 
