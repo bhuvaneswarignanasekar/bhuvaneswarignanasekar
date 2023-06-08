@@ -9,7 +9,8 @@
 - Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I been worked on and currently working on
 <h3>Contact me:</h3>
 
-- Check out my [resume]
+- Check out [Personal Website](https://bhuvaneswarignanasekar.github.io/)
+- Check out my [resume](https://github.com/bhuvaneswarignanasekar/bhuvaneswarignanasekar.github.io/blob/main/assets/files/Bhuvaneswari_Gnanasekar_Resume.pdf)
 - by phone: +1(540)-449-7699
 - by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu 
 - Check out my LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
