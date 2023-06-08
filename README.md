@@ -1,4 +1,5 @@
-### Hi there 👋 Welcome to my GitHub Profile 🎉 Happy to have you.
+### Hi there 👋 Welcome to my GitHub Profile 🎉 Happy to have you. 
+[**Personal Website**](https://bhuvaneswarignanasekar.github.io/)
 
 - 🎓 I'm a Graduate student at Virginia Tech, Virginia, USA. Graduated in Dec 2022🎓
 - 📚 Pursing Masters in Computer Engineering 
