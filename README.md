@@ -1,12 +1,13 @@
 ### Hi there 👋 Welcome to my GitHub Profile 🎉 Happy to have you. 
 [**Personal Website**](https://bhuvaneswarignanasekar.github.io/)
 
+- Software Engineer @OneCommunityGlobal and QA automation Engineer @Halliburton
 - 🎓 I'm a Graduate student at Virginia Tech, Virginia, USA. Graduated in Dec 2022🎓
 - 📚 Holds Bachelors in Engineering in Computer Science and Master of Engineering in Computer Engineering
-- 🧐 **I'm looking for a full time/internship opporunity from dec 2022**
+- 🧐 **I'm looking for a full time oppurtunity**
 - **master's capstone project** [Weather Prediction]
 - check out my **undergraduate final project** [bhoodrone-backend](https://github.com/bhuvaneswarignanasekar/bhoodrone-backend)
-- Check out my [**ML- projects repository**](https://github.com/bhuvaneswarignanasekar/ML-projects) to see projects that I been worked on and currently working on
+
 <h3>Contact me:</h3>
 
 - Check out [Personal Website](https://bhuvaneswarignanasekar.github.io/)
