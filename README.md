@@ -11,7 +11,7 @@
 <h3>Contact me:</h3>
 
 - Check out [Personal Website](https://bhuvaneswarignanasekar.github.io/)
-- Check out my [resume](https://github.com/bhuvaneswarignanasekar/bhuvaneswarignanasekar.github.io/blob/main/assets/files/Bhuvaneswari_Gnanasekar_Resume.pdf)
+- Check out my [resume](https://github.com/bhuvaneswarignanasekar/bhuvaneswarignanasekar.github.io/blob/main/assets/files/Bhuvaneswari_Gnanasekar_Software_Engineer_CV.pdf)
 - by phone: +1(540)-449-7699
 - by email: bhuvaneswari.gnanasekar@gmail.com or bhuvaneswarig@vt.edu 
 - Check out my LinkedIn: https://www.linkedin.com/in/bhuvaneswari-g/
